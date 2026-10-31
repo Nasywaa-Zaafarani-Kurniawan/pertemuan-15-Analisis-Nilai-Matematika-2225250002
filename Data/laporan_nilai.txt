@@ -1,0 +1,32 @@
+=================================================================
+       LAPORAN PENGOLAHAN NILAI MATEMATIKA MAHASISWA
+=================================================================
+Jumlah mahasiswa : 15
+Rata-rata nilai  : 74.13
+Nilai tertinggi  : 100
+Nilai terendah   : 0
+KKM              : 75
+-----------------------------------------------------------------
+DAFTAR NILAI MAHASISWA
+-----------------------------------------------------------------
+NIM          NAMA                 KELAS    NILAI    STATUS
+-----------------------------------------------------------------
+2501xxxx1    Aditya Pratama       A        0        Belum Tuntas
+2501xxxx2    Bella Anggraini      A        72       Belum Tuntas
+2501xxxx3    Citra Maharani       A        75       Tuntas
+2501xxxx4    Dimas Saputra        A        65       Belum Tuntas
+2501xxxx5    Eka Putri            A        78       Tuntas
+2501xxxx6    Farhan Ramadhan      A        100      Tuntas
+2501xxxx7    Gita Permata         A        95       Tuntas
+2501xxxx8    Hafiz Alfarizi       A        70       Belum Tuntas
+2501xxxx9    Intan Safira         B        82       Tuntas
+2501xxxx10   Jihan Amelia         B        75       Tuntas
+2501xxxx11   Kevin Firmansyah     B        60       Belum Tuntas
+2501xxxx12   Laras Oktaviani      B        92       Tuntas
+2501xxxx13   Muhammad Rizky       B        80       Tuntas
+2501xxxx14   Nadia Azzahra        B        68       Belum Tuntas
+2501xxxx15   Rafi Akbar           B        100      Tuntas
+-----------------------------------------------------------------
+Jumlah Tuntas        : 9
+Jumlah Belum Tuntas  : 6
+=================================================================
